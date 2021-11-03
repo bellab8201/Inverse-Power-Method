@@ -1,0 +1,11 @@
+
+./iPow -case p287   -alpha 1     
+./iPow -case p287   -alpha 2     
+./iPow -case p287   -alpha 3     
+./iPow -case p287   -alpha 4     
+./iPow -case p287   -alpha 4.9   
+./iPow -case p287   -alpha -4    
+
+./iPow -case p285   -alpha 2     
+
+./iPow -case p270   -alpha 1     
